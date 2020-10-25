@@ -4,7 +4,8 @@
   "description": "cors-anywhere",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+	"test": "echo \"Error: no test specified\" && exit 1",
+	"start": "index.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +20,8 @@
   "homepage": "https://github.com/numanaral/cors-anywhere#readme",
   "dependencies": {
     "cors-anywhere": "^0.4.3"
+  },
+  "engines": {
+    "node": "13.x"
   }
 }
