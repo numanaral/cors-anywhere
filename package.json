@@ -1,0 +1,23 @@
+{
+  "name": "my-cors-anywhere",
+  "version": "1.0.0",
+  "description": "cors-anywhere",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/numanaral/cors-anywhere.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/numanaral/cors-anywhere/issues"
+  },
+  "homepage": "https://github.com/numanaral/cors-anywhere#readme",
+  "dependencies": {
+    "cors-anywhere": "^0.4.3"
+  }
+}
